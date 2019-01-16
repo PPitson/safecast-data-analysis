@@ -5,3 +5,6 @@ python-geohash
 requests
 beautifulsoup4
 matplotlib
+pycountry
+folium
+reverse_geocoder
